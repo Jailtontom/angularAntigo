@@ -1,0 +1,4 @@
+.example-container {
+    margin: 10px;
+    min-height: calc(100vh - 146px)
+  }
